@@ -1,4 +1,5 @@
-# introduction-to-machine-learning-for-trading
+https://quantra.quantinsti.com/course/introduction-to-machine-learning-for-trading
+## introduction-to-machine-learning-for-trading
 
 section-4:
 
