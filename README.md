@@ -31,8 +31,10 @@ Quantra® is an e-learning portal by QuantInsti® that specializes in Algorithmi
   </h3>
 </div>
 <div align="center">
-	<h1>Introduction to machine learning for trading</h1>
+  <h1>Introduction to machine learning for trading</h1>
 </div>
+
+<br>
 
 ### Made on Python version 2.7
 
