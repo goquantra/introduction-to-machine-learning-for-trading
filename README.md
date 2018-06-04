@@ -1,10 +1,8 @@
-<img align="left" width="150" src="https://quantra.quantinsti.com/images/img_logo.svg">
-
-Learn A to Z of Algorithmic and Quantitative Trading
-Quantra® is an e-learning portal by QuantInsti® that specializes in Algorithmic & Quantitative Trading. Quantra offers the best self-paced courses that are a mix of videos, audios, presentations, multiple choice questions and highly interactive exercises.
-
-<br>
-<br>
+<p align="center">
+  <img align="center" width="200" src="https://quantra.quantinsti.com/images/img_logo.svg">
+</p>
+<p align="center">Learn A to Z of Algorithmic and Quantitative Trading</p>
+<p align="center">Quantra<sup>&reg;</sup> is an e-learning portal by QuantInsti<sup>&reg;</sup> that specializes in Algorithmic &amp; Quantitative Trading. Quantra offers the best self-paced courses that are a mix of videos, audios, presentations, multiple choice questions and highly interactive exercises.</p>
 <br>
 
 <div align="center">
@@ -34,13 +32,12 @@ Quantra® is an e-learning portal by QuantInsti® that specializes in Algorithmi
   <h1>Introduction to machine learning for trading</h1>
 </div>
 
-<br>
 
 ### Made on Python version 2.7
 
 ## About the course
 
-This is a basic level course that helps you in getting started with using Machine Learning for trading. Highlights of the course includes Supervised, Unsupervised and Reinforcement Machine Learning, algorithms such as Linear regression, Logistic regression, K - Nearest Neighbor, Artificial Neural Networks, Random Forest, and Support Vector Machine, application in trading. Also learn to backtest a trading strategy on S&P500 using Support Vector Classifier Algorithm in Python
+This is a basic level course that helps you in getting started with using Machine Learning for trading. Highlights of the course includes Supervised, Unsupervised and Reinforcement Machine Learning, algorithms such as Linear regression, Logistic regression, K - Nearest Neighbor, Artificial Neural Networks, Random Forest, and Support Vector Machine, application in trading. Also learn to backtest a trading strategy on S&amp;P500 using Support Vector Classifier Algorithm in Python
 
 #### What do I learn in this course
 -   Basics of Machine Learning
@@ -64,7 +61,7 @@ An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=46&section_n
 An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=46&section_no=4&unit_no=7) where you will learn to import data which will be used for training and testing the model.
 
 **Support Vector Classifier Strategy:**
-An [Ipython notebook](https://quantra.quantinsti.com/startCourseDetails?cid=46&section_no=4&unit_no=8) to learn how to use the support vector classifier (SVC) algorithm and its implementation on S&P500.
+An [Ipython notebook](https://quantra.quantinsti.com/startCourseDetails?cid=46&section_no=4&unit_no=8) to learn how to use the support vector classifier (SVC) algorithm and its implementation on S&amp;P500.
 
 You can understand the concepts by accessing the full [course](https://quantra.quantinsti.com/course/introduction-to-machine-learning-for-trading).
 
