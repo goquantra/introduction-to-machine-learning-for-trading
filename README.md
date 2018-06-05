@@ -58,7 +58,7 @@ Want to know more? Check out the course [here](https://quantra.quantinsti.com/co
 ## Predicting Trend Using Classification
 [(Back to top)](#table-of-contents)
 
-**The folder contains the following topics:**
+The folder contains the following topics:
 
 **Import SVM module:**
 An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=46&section_no=4&unit_no=6) where you will learn how to write the first few lines of the code to import the machine learning libraries.
