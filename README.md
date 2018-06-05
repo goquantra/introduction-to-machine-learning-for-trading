@@ -44,7 +44,7 @@
 ## About the course
 [(Back to top)](#table-of-contents)
 
-This is a basic level course that helps you in getting started with using Machine Learning for trading. Highlights of the course includes Supervised, Unsupervised and Reinforcement Machine Learning, algorithms such as Linear regression, Logistic regression, K - Nearest Neighbor, Artificial Neural Networks, Random Forest, and Support Vector Machine, application in trading. Also learn to backtest a trading strategy on S&amp;P500 using Support Vector Classifier Algorithm in Python
+This is a basic level course that will help you in using Machine Learning for trading. Highlights of the course include Supervised, Unsupervised and Reinforcement Learning algorithms. We also covers concepts on Linear regression, Logistic regression, K - Nearest Neighbor, Artificial Neural Networks, Random Forest, and Support Vector Machines, and their applications in trading. Also learn how to backtest a trading strategy on S&amp;P500 using Support Vector Classifier Algorithm in Python
 
 #### What do I learn in this course
 -   Basics of Machine Learning
@@ -64,7 +64,7 @@ The folder contains the following topics:
 An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=46&section_no=4&unit_no=6) where you will learn how to write the first few lines of the code to import the machine learning libraries.
 
 **Import Data:**
-An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=46&section_no=4&unit_no=7) where you will learn to import data which will be used for training and testing the model.
+An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=46&section_no=4&unit_no=7) where you will learn how to import data which will be used for training and testing the model.
 
 **Support Vector Classifier Strategy:**
 An [Ipython notebook](https://quantra.quantinsti.com/startCourseDetails?cid=46&section_no=4&unit_no=8) to learn how to use the support vector classifier (SVC) algorithm and its implementation on S&amp;P500.
