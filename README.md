@@ -12,7 +12,7 @@
       Website
     </a>
     <span> | </span>
-    <a href="https://quantra.quantinsti.com/course/options-trading-strategies-python-basic">
+    <a href="https://quantra.quantinsti.com/course/introduction-to-machine-learning-for-trading">
       Course
     </a>
        <span> | </span>
