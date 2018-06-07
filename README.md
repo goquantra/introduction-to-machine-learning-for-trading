@@ -30,8 +30,11 @@
   </h3>
 </div>
 <div align="center">
-  <h1>Introduction to machine learning for trading</h1>
+<div align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/16116886/41084274-44c531e2-6a51-11e8-95a5-fd418fb93c41.png">
 </div>
+  
+<br/>
 
 > Made on Python version 2.7
 
